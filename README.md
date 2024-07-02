@@ -25,6 +25,6 @@ Cache (LRU algorithm is used in it)
 
 ```bash
 $ git clone https://github.com/sreejish05/Multithreaded-Proxy-Web-Server.git
-$ cd MultiThreadedProxyServerClient
+$ cd Multithreaded-Proxy-Web-Server
 $ make all
 $ ./proxy <port no.>
